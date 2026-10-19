@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-google-sans), "Google Sans", "Product Sans", system-ui, sans-serif;
+  --font-mono: var(--font-google-sans), "Google Sans", "Product Sans", system-ui, sans-serif;
+}
+
+body, html, input, button, select, textarea, pre, code {
+  font-family: var(--font-google-sans), "Google Sans", "Product Sans", system-ui, sans-serif !important;
+}

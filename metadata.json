@@ -1,0 +1,6 @@
+{
+  "name": "ANKA-SİSMİK 3D: Ankara 25 İlçe Deprem ve Altyapı Simülatörü",
+  "description": "ABB AYKOME, ASKİ, Başkentgaz, Başkent EDAŞ, EGM ve MEB İSG verilerine dayalı, 30 dakikada bir canlı güncellenen 3B Ankara deprem ve altyapı dayanıklılık simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
